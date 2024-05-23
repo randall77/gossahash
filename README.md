@@ -1,3 +1,5 @@
+## Note: this program is deprecated in favor of https://golang.org/x/tools/cmd/bisect.
+
 # gossahash-search
 Searches for the function that the SSA phase of the Go compiler is doing wrong.
 
